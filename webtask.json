@@ -1,16 +1,16 @@
 {
-  "title": "Delegated Administration Dashboard",
-  "name": "auth0-delegated-admin",
+  "title": "Lozano Delegated Administration Dashboard",
+  "name": "lozano-delegated-admin",
   "version": "4.3.0",
   "author": "auth0",
   "useHashName": false,
-  "description": "This extension allows non-dashboard administrators to manage (a subset of) users.",
+  "description": "Lozano - This extension allows non-dashboard administrators to manage (a subset of) users.",
   "type": "application",
   "category": "end_user",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-delegated-admin/assets/logo.svg",
   "initialUrlPath": "/",
   "docsUrl": "https://auth0.com/docs/extensions/delegated-admin",
-  "repository": "https://github.com/auth0-extensions/auth0-delegated-administration-extension",
+  "repository": "https://github.com/dlozlla/auth0-delegated-administration-extension/",
   "keywords": [
     "auth0",
     "extension"
